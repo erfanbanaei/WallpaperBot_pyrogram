@@ -26,7 +26,7 @@ You can fill in your details in the links below
 
 ## Screenshots
 
-![Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot](https://user-images.githubusercontent.com/75321483/145020010-4f2791b3-40e8-45b6-b60d-3e4eb8e2d0ba.jpg)
 
 
 ## Demo
@@ -34,4 +34,5 @@ You can fill in your details in the links below
 - [@WallpaperMrTakBoT](https://t.me/WallpaperMrTakBoT)
 
 ## Contact
+
 ### [Telegram](https://t.me/erfanbanaei_ir)  [Instagram](https://www.instagram.com/mrtakrobot/)
